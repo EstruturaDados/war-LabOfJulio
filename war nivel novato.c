@@ -54,4 +54,5 @@ int main() { // CHAMADA PRINCIPAL DO PROGRAMA
         printf("TROPAS: %d ", areas[i].tropas);
         
     }
+
 }
